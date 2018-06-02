@@ -1,0 +1,2 @@
+This is file3 created by bill.
+This is line2 of file3.
